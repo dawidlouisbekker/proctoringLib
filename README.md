@@ -5,12 +5,12 @@
 - Link all the libraries in the pragma once statements in Source.cpp
 - ### Linker > Input > additional libraries
   Add these:
-  Gdiplus.lib
-  mf.lib
-  mfplat.lib
-  mfuuid.lib
-  ole32.lib
-  mfreadwrite.lib
+  - Gdiplus.lib
+  - mf.lib
+  - mfplat.lib
+  - mfuuid.lib
+  - ole32.lib
+  - mfreadwrite.lib
   
 ## socket.h ##
 - Sockets needed for sending screen shot and webcam data (Also audio later)
