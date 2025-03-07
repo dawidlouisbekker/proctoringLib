@@ -13,7 +13,7 @@
   - mfreadwrite.lib
   
 ## socket.h ##
-- Sockets needed for sending screen shot and webcam data (Also audio later)
+- Sockets needed for sending screen shots and webcam data (Also audio later, not sure if it being recorded)
 ## Source.cpp ##
 - code for taking screen shots programmatically
 - code for filming webcame. (Might need to run visual studio in admin mode)
